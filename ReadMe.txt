@@ -19,4 +19,4 @@ Prerequisites:-
   6. tibjmsufo.jar
   7. tibrvjms.jar
   
- Now you can tun Sender and receiver programs to send and receive messages
+ Now you can run Sender and receiver programs to send and receive messages
